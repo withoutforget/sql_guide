@@ -99,11 +99,11 @@ D–H предварительная — уточняется по мере го
 ### Модуль B — Соединение данных
 | Лаба   | Тема                                                          | Статус |
 |--------|--------------------------------------------------------------|--------|
-| lab002 | Джойны: `INNER`/`LEFT`/`RIGHT`/`FULL`/`CROSS`, self-join      | 🔜     |
-| lab003 | Операции над множествами: `UNION`/`INTERSECT`/`EXCEPT`        | 🔜     |
-| lab004 | Подзапросы: `IN`/`EXISTS`/`ANY`/`ALL`, коррелированные        | 🔜     |
-| lab005 | CTE (`WITH`): цепочки, `MATERIALIZED`                         | 🔜     |
-| lab006 | `LATERAL` и функции-множества (`generate_series`, `unnest`)   | 🔜     |
+| lab002 | Джойны: `INNER`/`LEFT`/`RIGHT`/`FULL`/`CROSS`, self-join      | ✅     |
+| lab003 | Операции над множествами: `UNION`/`INTERSECT`/`EXCEPT`        | ✅     |
+| lab004 | Подзапросы: `IN`/`EXISTS`/`ANY`/`ALL`, коррелированные        | ✅     |
+| lab005 | CTE (`WITH`): цепочки, `MATERIALIZED`                         | ✅     |
+| lab006 | `LATERAL` и функции-множества (`generate_series`, `unnest`)   | ✅     |
 | lab007 | Рекурсивные CTE: иерархии, графы                              | 🔜     |
 
 ### Модуль C — Агрегация и аналитика
